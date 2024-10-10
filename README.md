@@ -37,4 +37,9 @@ This is a web-based application that helps manage warehouse inventory, track pro
 - Register as a new user
 - Add, edit, and remove products
 - View and manage inventory levels
-  
+ ## Contributing
+Contributions are welcome! Please open an issue or submit a pull request for any improvements.
+## Acknowledgments
+- Laravel framework
+- Backpack for admin panel
+ 
